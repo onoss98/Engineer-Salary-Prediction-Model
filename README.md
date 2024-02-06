@@ -1,6 +1,6 @@
 # Engineer Salary Prediction Model
 
-This project has been undertaken with the primary objective of improving and deepening my understanding of core data science skills, including data cleaning, the development of predictive models utilizing the powerful `scikit-learn` library, and the creation of insightful data visualizations using `seaborn`.
+This project has been undertaken with the primary objective of deepening understanding of predictive models and experiencing the full process using real uncleaned data.
 
 ## Project Overview
 
@@ -8,11 +8,11 @@ As part of this project, we explore and implement advanced techniques in data sc
 
 ## Key Features
 
-- **Data Cleaning:** Rigorous data cleaning techniques have been employed to ensure the dataset's integrity, leading to more reliable predictions.
+- **Data Cleaning:** Data cleaning techniques have been employed to ensure the dataset's integrity, leading to more reliable predictions.
 
-- **Predictive Models:** Harnessing the capabilities of the `scikit-learn` library, our project delves into the development of predictive models to forecast engineer salaries. This involves the implementation of cutting-edge algorithms to extract meaningful patterns from the data.
+- **Predictive Models:** Using `scikit-learn` library, this project delves into the development of a K-Nearest Neighbors model to forecast a tech engineer's salaries. This involves the implementation of cutting-edge algorithms to extract meaningful patterns from the data.
 
-- **Data Visualization:** The use of `seaborn` for data visualization adds a layer of clarity and interpretation to our findings. Visual representations enhance our ability to communicate complex insights derived from the analysis.
+- **Data Visualization:** The use of `seaborn` for data visualization adds a layer of clarity and interpretation to the findings. Visual representations enhance our ability to communicate complex insights derived from the analysis.
 
 ## Project Structure
 

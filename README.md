@@ -1,4 +1,4 @@
-# Engineer Salary Prediction Model
+# Tech Engineer Salary Prediction Model
 
 This project has been undertaken with the primary objective of deepening understanding of predictive models and experiencing the full process using real uncleaned data.
 
